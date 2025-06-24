@@ -1,100 +1,92 @@
-# Mahnoor Fatima | Cybersecurity Enthusiast 
+# 🛡️ Mahnoor Fatima | Cybersecurity Analyst
 
-Hello! I’m Mahnoor, an aspiring **Cybersecurity Analyst** with a focus on defensive security, SOC operations, and threat detection. With hands-on training in **incident response**, **SIEM tools**, and **threat intelligence**, I’m building a solid foundation to contribute to real-world security teams.
+🎯 Aspirin Cybersecurity Analyst with hands-on training in **SOC operations**, **threat intelligence**, and **incident response**.  
+Skilled in working with SIEM tools like **IBM QRadar**, **Wazuh**, and **Elastic Stack**, with foundational knowledge in **Linux hardening**, **Python scripting**, and **penetration testing**.  
+Currently seeking opportunities to contribute to blue teams and security operations in a real-world environment.
+
+---
+
+## 🧰 Tech Stack & Tools
+
+🔍 **SIEM & Monitoring**: `IBM QRadar`, `Wazuh`, `Elastic Stack`, `Splunk`  
+🌐 **Threat Intelligence**: `VirusTotal`, `AlienVault OTX`, `RiskIQ`, `IPDP`, `X-Force`  
+🐧 **Linux Security**: `Ubuntu CLI`, `Permissions`, `iptables`, `netstat`, `auditd`, `bash scripting`  
+🐍 **Programming & Scripting**: `Python`, `SQL`, `Bash`  
+🧪 **Pen Testing & Tools**: `Nmap`, `Wireshark`, `Nslookup`, `OpenVAS`, `Google Dorking`  
+🔐 **Security Concepts**: `CIA Triad`, `NIST Framework`, `XDR`, `SIEM Alerts`, `IOC Management`, `Encryption`, `Phishing Detection`
+
+---
 
 ## 📂 Projects & Tasks (SOC Analyst Training – Trillium)
-While I cannot share internal or confidential project details, here are some key cybersecurity tasks and simulations I completed during my SOC analyst training program:
 
-### 🔍  Security Event Monitoring
-- Monitored and analyzed logs using **IBM QRadar** and **Wazuh**.
-- Conducted alert triage and reviewed suspicious activities across systems and endpoints.
-- Worked with **Elastic Stack (ELK)** for log searching and visualization.
+🔐 *Note: Due to confidentiality agreements, internal projects are not shared publicly. Below is a general overview of my training experience.*
+
+### 🔍 Security Event Monitoring
+- Monitored and analyzed logs using **IBM QRadar** and **Wazuh**
+- Conducted alert triage and reviewed suspicious activities across endpoints
 
 ### 🛡️ Threat Intelligence & IOC Verification
-- Investigated IPs and domains using **VirusTotal**, **IPDP**, **AlienVault OTX**, and **RiskIQ**.
-- Assessed threat indicators and reduced false positives during event analysis.
+- Investigated domains and IPs via **VirusTotal**, **AlienVault**, **RiskIQ**, and **IPDP**
+- Reduced false positives by cross-verifying multiple threat intelligence feeds
 
 ### 🚨 Incident Response & Escalation
-- Followed incident response procedures to classify and escalate events.
-- Managed and documented incidents through a structured workflow in coordination with the SOC team.
+- Followed IR workflows to classify and escalate events using predefined playbooks
+- Documented incident summaries and handed off escalations to senior analysts
 
 ### 📊 Reporting & Documentation
-- Generated daily, weekly, and monthly security summaries.
-- Reported findings, incident patterns, and remediation suggestions to improve threat visibility.
+- Prepared detailed daily, weekly, and monthly reports on threat patterns
+- Contributed to documentation of incident resolution timelines and actions taken
 
 ### 🔐 Access Control & Blacklist Filtering
-- Identified and blocked malicious IPs/domains based on threat intelligence feeds.
-- Practiced use of **XDR frameworks** for endpoint detection and response.
+- Applied threat feed rules to block malicious IPs/domains using firewall-level controls
+- Worked with XDR interfaces to track asset activity and isolate risky behavior
 
-### 💡 Tools & Skills Applied
--  **SIEM Tools**: IBM QRadar, Wazuh
--  **Threat Intelligence**: VirusTotal, RiskIQ, AlienVault, IPDP
-- **Incident Handling**: Detection, triage, documentation
+---
 
 ## 🎓 Course-Based Projects & Labs
 
-Below are key tasks, labs, and simulations completed through my certification coursework and self-study programs:
+### 📘 Google Cybersecurity Certificate (Coursera)
 
-###  Google Cybersecurity Certificate (Coursera)
+- 🛡️ **Incident Response Simulation**: Analyzed mock breaches and created response plans
+- 📊 **SIEM & Log Analysis**: Worked with simulated logs to investigate anomalies
+- 🐧 **Linux CLI & Security**: Navigated file systems, permissions, user roles, and system hardening
+- 🐍 **Python for Security**: Wrote scripts to parse logs, check IPs, and automate alerts
+- 🧮 **SQL for Cybersecurity**: Queried mock datasets for suspicious login behavior
 
-- **Incident Response Simulation**
-  - Practiced detection, escalation, and containment based on mock breaches.
-  - Drafted response plans and stakeholder communication outlines.
+### 🧪 Penetration Testing, Threat Hunting & Cryptography (Self-Study)
 
-- **SIEM & Log Analysis**
-  - Used mock log files to detect anomalies and investigate events.
-  - Simulated alert analysis using SIEM concepts and tools like Splunk/Wazuh (externally).
+- 🔍 **Reconnaissance Labs**: Active/passive scanning with `Nmap`, `Nslookup`, and Google Dorking
+- 🐛 **Vulnerability Discovery**: Simulated scanning with `OpenVAS`, interpreted CVEs
+- 🎯 **Social Engineering Simulation**: Mock phishing emails, payload structure, pretexting
+- 🔐 **Crypto Basics**: Hands-on with hashing, encryption, encoding, and decryption in Python
 
-- **Linux Security & CLI**
-  - Navigated Ubuntu CLI: users, permissions, file systems, process monitoring.
-  - Simulated secure configuration and system hardening using CLI tools.
+### 🐧 Linux CLI & Hardening Tasks
 
-- **SQL & Data Investigation**
-  - Queried structured security logs to extract relevant indicators.
-  - Wrote conditional and multi-table queries to support threat investigations.
+- Set file permissions (`chmod`, `chown`), managed users, and secured services
+- Configured firewall rules with `iptables`, reviewed logs using `journalctl` and `auditd`
+- Created Bash scripts for filtering log files and monitoring open ports
 
-- **Python Automation for Security**
-  - Built basic Python scripts for:
-    - Parsing logs and extracting indicators
-    - IP reputation checks using APIs
-    - Automating alert correlation logic
-
----
-
-###  Penetration Testing, Threat Hunting & Cryptography
-
-- **Reconnaissance Labs**
-  - Performed passive and active scanning using tools like `Nmap`, `Nslookup`, and Google Dorking.
-  - Used banner grabbing, packet sniffing (Wireshark), and DNS enumeration.
-
-- **Vulnerability Discovery**
-  - Conducted mock vulnerability scans with tools like `OpenVAS` and `Nessus`.
-  - Interpreted CVEs and tested exploits in lab environments.
-
-- **Social Engineering Awareness**
-  - Simulated phishing and spear-phishing scenarios.
-  - Studied real-world attack vectors and email payload examples.
-
-- **Cryptography Fundamentals**
-  - Studied symmetric/asymmetric encryption, hashing, and digital signatures.
-  - Applied basic encoding and decryption tasks using Python.
-
----
-
-### Linux & CLI Projects
-
-- User and group permission control (chmod, chown)
-- Monitoring tools: `top`, `htop`, `netstat`, `iptables`
-- Basic firewall rules and service hardening
-- Bash scripting for log filtering and file manipulation
-
----
-
-###  Python for Cybersecurity (Coursera)
+### 🐍 Python for Cybersecurity (Coursera)
 
 - Created scripts to:
-  - Scan log files and extract suspicious activity
-  - Check hash values against known malware databases
-  - Generate alerts for unusual port usage or login attempts
+  - Scan logs and extract suspicious patterns
+  - Automate IP/domain reputation checks
+  - Trigger alerts based on login failures and port usage
+
+---
+
+## 🏅 Certifications
+
+- 🎓 **Google Cybersecurity Professional Certificate** 
+- 🧠 **Pen Testing, Threat Hunting & Cryptography** – IBM
+- 🐍 **Python for Everybody** – UNIVERSITY OF MICHIGAN
+- 🛠️ **QRadar SIEM Foundation** – IBM
+
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [mahnoor.nordic@gmail.com](mailto:mahnoor.nordic@gmail.com)
 
 
