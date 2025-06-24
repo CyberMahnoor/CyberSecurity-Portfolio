@@ -58,7 +58,7 @@ Currently seeking opportunities to contribute to blue teams and security operati
 - 🔍 **Reconnaissance Labs**: Active/passive scanning with `Nmap`, `Nslookup`, and Google Dorking
 - 🐛 **Vulnerability Discovery**: Simulated scanning with `OpenVAS`, interpreted CVEs
 - 🎯 **Social Engineering Simulation**: Mock phishing emails, payload structure, pretexting
-- 🔐 **Crypto Basics**: Hands-on with hashing, encryption, encoding, and decryption in Python
+- 🔐 **Crypto Basics**: Hands-on with hashing, encryption, encoding, and decryption in linux
 
 ### 🐧 Linux CLI & Hardening Tasks
 
