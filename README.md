@@ -1,8 +1,6 @@
 # 🛡️ Mahnoor Fatima | Cybersecurity Analyst
 
-🎯 Aspirin Cybersecurity Analyst with hands-on training in **SOC operations**, **threat intelligence**, and **incident response**.  
-Skilled in working with SIEM tools like **IBM QRadar**, **Wazuh**, and **Elastic Stack**, with foundational knowledge in **Linux hardening**, **Python scripting**, and **penetration testing**.  
-Currently seeking opportunities to contribute to blue teams and security operations in a real-world environment.
+🎯 Entry-level Cybersecurity Analyst with practical SOC experience in threat monitoring, incident response, and threat intelligence. Skilled with SIEM tools (QRadar, Wazuh, Splunk), Linux security, and beginner-level Python scripting, Currently seeking opportunities to contribute to blue teams and security operations in a real-world environment.
 
 ---
 
