@@ -53,7 +53,7 @@ Currently seeking opportunities to contribute to blue teams and security operati
 - 🐍 **Python for Security**: Wrote scripts to parse logs, check IPs, and automate alerts
 - 🧮 **SQL for Cybersecurity**: Queried mock datasets for suspicious login behavior
 
-### 🧪 Penetration Testing, Threat Hunting & Cryptography (Self-Study)
+### 🧪 Penetration Testing, Threat Hunting & Cryptography 
 
 - 🔍 **Reconnaissance Labs**: Active/passive scanning with `Nmap`, `Nslookup`, and Google Dorking
 - 🐛 **Vulnerability Discovery**: Simulated scanning with `OpenVAS`, interpreted CVEs
