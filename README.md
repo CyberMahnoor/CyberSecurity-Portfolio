@@ -82,7 +82,7 @@
 
 - 🎓 **Google Cybersecurity Professional Certificate**
 
-./certificate/Google_Cybersecurity_Certificate.png
+(./certificate/Google_Cybersecurity_Certificate.png)
 
 - 🧠 **Pen Testing, Threat Hunting & Cryptography** – 
 IBM
