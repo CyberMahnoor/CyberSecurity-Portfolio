@@ -50,7 +50,7 @@
 - 🐧 **Linux CLI & Security**: Navigated file systems, permissions, user roles, and system hardening
 - 🐍 **Python for Security**: Wrote scripts to parse logs, check IPs, and automate alerts
  
- (./img/PythonLab/pthon_for_loop.png)
+ (./pthon_for_loop.png)
 - 🧮 **SQL for Cybersecurity**: Queried mock datasets for suspicious login behavior
 
 ### 🧪 Penetration Testing, Threat Hunting & Cryptography 
