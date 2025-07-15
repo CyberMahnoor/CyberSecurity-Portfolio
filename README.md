@@ -83,25 +83,26 @@
 - 🎓 **Google Cybersecurity Professional Certificate**
 
 
-!(./certificate/Google_Cybersecurity_Certificate.png)
+![Google Cybersecurity Professional Certificate](./certificate/Google_Cybersecurity_Certificate.png)
+
 
 
 - 🧠 **Pen Testing, Threat Hunting & Cryptography** – 
 IBM
 
-!(./certificate/IBM_Pentest_Certificate.png)
+
+![Pen Testing, Threat Hunting & Cryptography](./certificate/IBM_Pentest_Certificate.png)
+
 
 
 - 🐍 **Python for Everybody** – UNIVERSITY OF MICHIGAN
 
-!(./certificate/Python_Programming.png)
-!(./certificate/Python_Data_Structures.png)
-
+![Python](./certificate/Python_Programming.png)
+![Python](./certificate/Python_Data_Structures.png)
 
 - 🛠️ **QRadar SIEM Foundation** – IBM
 
-!(./certificate/IBM_Qradar_Certificate.png)
-
+![QRadar SIEM Foundation](./certificate/IBM_Qradar_Certificate.png)
 ---
 
 ## 📫 Connect with Me
