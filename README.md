@@ -60,11 +60,14 @@
 📁 [Browse all MariaDBLabs images](./img/MariaDBLabs/)
 ### 🧪 Penetration Testing, Threat Hunting & Cryptography 
 
-- 🔍 **Reconnaissance Labs**: Active/passive scanning with `Nmap`, `Nslookup`, and Google Dorking
+- 🔍 **Reconnaissance Labs**: Active/passive scanning with `Nmap`, `Nslookup`, Google Dorking and Wireshark
 
 📁 [Browse all NmapLab images](./img/NmapLab/)
+
 📁 [Browse all NsLookupLab images](./img/NsLookupLabs/)
+
 📁 [Browse all WiresharkLab images](./img/WiresharkLab/)
+
 📁 [Browse all VulnerabilityResearchLab images](./img/VulnerabilityResearchLabs/)
 
 - 🐛 **Vulnerability Discovery**: Simulated scanning with `OpenVAS`, interpreted CVEs
