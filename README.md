@@ -60,20 +60,6 @@
 - 🐛 **Vulnerability Discovery**: Simulated scanning with `OpenVAS`, interpreted CVEs
 - 🎯 **Social Engineering Simulation**: Mock phishing emails, payload structure, pretexting
 - 🔐 **Crypto Basics**: Hands-on with hashing, encryption, encoding, and decryption in linux
-
-### 🐧 Linux CLI & Hardening Tasks
-
-- Set file permissions (`chmod`, `chown`), managed users, and secured services
-- Configured firewall rules with `iptables`, reviewed logs using `journalctl` and `auditd`
-- Created Bash scripts for filtering log files and monitoring open ports
-
-### 🐍 Python for Cybersecurity (Coursera)
-
-- Created scripts to:
-  - Scan logs and extract suspicious patterns
-  - Automate IP/domain reputation checks
-  - Trigger alerts based on login failures and port usage
-
 ---
 
 ## 🏅 Certifications
