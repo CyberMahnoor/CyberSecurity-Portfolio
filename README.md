@@ -52,7 +52,7 @@
  
 📁 [Browse all PythonLab images](./img/PythonLab/)
 - 🧮 **SQL for Cybersecurity**: Queried mock datasets for suspicious login behavior
-
+📁 [Browse all MariaDBLabs images](./img/MariaDBLabs/)
 ### 🧪 Penetration Testing, Threat Hunting & Cryptography 
 
 - 🔍 **Reconnaissance Labs**: Active/passive scanning with `Nmap`, `Nslookup`, and Google Dorking
