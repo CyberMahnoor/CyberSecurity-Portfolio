@@ -47,7 +47,11 @@
 
 - 🛡️ **Incident Response Simulation**: Analyzed mock breaches and created response plans
 - 📊 **SIEM & Log Analysis**: Worked with simulated logs to investigate anomalies
+
+📁 [Browse all SplunkLab images](./img/SplunkLab/)
 - 🐧 **Linux CLI & Security**: Navigated file systems, permissions, user roles, and system hardening
+
+📁 [Browse all LinuxLab images](./LinuxLab/)
 - 🐍 **Python for Security**: Wrote scripts to parse logs, check IPs, and automate alerts
  
 📁 [Browse all PythonLab images](./img/PythonLab/)
@@ -56,10 +60,32 @@
 📁 [Browse all MariaDBLabs images](./img/MariaDBLabs/)
 ### 🧪 Penetration Testing, Threat Hunting & Cryptography 
 
-- 🔍 **Reconnaissance Labs**: Active/passive scanning with `Nmap`, `Nslookup`, Google Dorking and Wireshark
+- 🔍 **Reconnaissance Labs**: Active/passive scanning with `Nmap`, `Nslookup`, and Google Dorking
+
+📁 [Browse all NmapLab images](./img/NmapLab/)
+📁 [Browse all NsLookupLab images](./img/NsLookupLabs/)
+📁 [Browse all WiresharkLab images](./img/WiresharkLab/)
+📁 [Browse all VulnerabilityResearchLab images](./img/VulnerabilityResearchLabs/)
+
 - 🐛 **Vulnerability Discovery**: Simulated scanning with `OpenVAS`, interpreted CVEs
 - 🎯 **Social Engineering Simulation**: Mock phishing emails, payload structure, pretexting
 - 🔐 **Crypto Basics**: Hands-on with hashing, encryption, encoding, and decryption in linux
+
+📁 [Browse all CryptoLab images](./img/CryptoLab/)
+
+### 🐧 Linux CLI & Hardening Tasks
+
+- Set file permissions (`chmod`, `chown`), managed users, and secured services
+- Configured firewall rules with `iptables`, reviewed logs using `journalctl` and `auditd`
+- Created Bash scripts for filtering log files and monitoring open ports
+
+### 🐍 Python for Cybersecurity (Coursera)
+
+- Created scripts to:
+  - Scan logs and extract suspicious patterns
+  - Automate IP/domain reputation checks
+  - Trigger alerts based on login failures and port usage
+
 ---
 
 ## 🏅 Certifications
