@@ -43,7 +43,7 @@
 
 ## 🎓 Course-Based Projects & Labs
 
-### 📘 Google Cybersecurity Certificate (Coursera)
+### 📘 Google Cybersecurity Certificate 
 
 - 🛡️ **Incident Response Simulation**: Analyzed mock breaches and created response plans
 - 📊 **SIEM & Log Analysis**: Worked with simulated logs to investigate anomalies
@@ -58,7 +58,7 @@
 - 🧮 **SQL for Cybersecurity**: Queried mock datasets for suspicious login behavior
 
 📁 [Browse all MariaDBLabs images](./img/MariaDBLabs/)
-### 🧪 Penetration Testing, Threat Hunting & Cryptography 
+### 🧪 IBM Penetration Testing, Threat Hunting & Cryptography 
 
 - 🔍 **Reconnaissance Labs**: Active/passive scanning with `Nmap`, `Nslookup`, Google Dorking and Wireshark
 
@@ -75,19 +75,6 @@
 - 🔐 **Crypto Basics**: Hands-on with hashing, encryption, encoding, and decryption in linux
 
 📁 [Browse all CryptoLab images](./img/CryptoLab/)
-
-### 🐧 Linux CLI & Hardening Tasks
-
-- Set file permissions (`chmod`, `chown`), managed users, and secured services
-- Configured firewall rules with `iptables`, reviewed logs using `journalctl` and `auditd`
-- Created Bash scripts for filtering log files and monitoring open ports
-
-### 🐍 Python for Cybersecurity (Coursera)
-
-- Created scripts to:
-  - Scan logs and extract suspicious patterns
-  - Automate IP/domain reputation checks
-  - Trigger alerts based on login failures and port usage
 
 ---
 
