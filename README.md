@@ -80,11 +80,25 @@
 
 ## 🏅 Certifications
 
-- 🎓 **Google Cybersecurity Professional Certificate** 
-- 🧠 **Pen Testing, Threat Hunting & Cryptography** – IBM
+- 🎓 **Google Cybersecurity Professional Certificate**
+
+./certificate/Google_Cybersecurity_Certificate.png
+
+- 🧠 **Pen Testing, Threat Hunting & Cryptography** – 
+IBM
+
+./certificate/IBM_Pentest_Certificate.png
+
+
 - 🐍 **Python for Everybody** – UNIVERSITY OF MICHIGAN
+
+./certificate/Python_Programming.png
+./certificate/Python_Data_Structures.png
+
+
 - 🛠️ **QRadar SIEM Foundation** – IBM
 
+./certificate/IBM_Qradar_Certificate.png
 
 ---
 
