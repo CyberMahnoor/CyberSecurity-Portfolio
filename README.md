@@ -87,8 +87,8 @@
 
 
 
-- 🧠 **Pen Testing, Threat Hunting & Cryptography** – 
-IBM
+- 🧠 ** IBM Pen Testing, Threat Hunting & Cryptography**  
+
 
 
 ![Pen Testing, Threat Hunting & Cryptography](./certificate/IBM_Pentest_Certificate.png)
@@ -100,7 +100,7 @@ IBM
 ![Python](./certificate/Python_Programming.png)
 ![Python](./certificate/Python_Data_Structures.png)
 
-- 🛠️ **QRadar SIEM Foundation** – IBM
+- 🛠️ ** IBM QRadar SIEM Foundation** 
 
 ![QRadar SIEM Foundation](./certificate/IBM_Qradar_Certificate.png)
 ---
