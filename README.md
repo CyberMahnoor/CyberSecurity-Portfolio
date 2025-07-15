@@ -56,7 +56,7 @@
 📁 [Browse all MariaDBLabs images](./img/MariaDBLabs/)
 ### 🧪 Penetration Testing, Threat Hunting & Cryptography 
 
-- 🔍 **Reconnaissance Labs**: Active/passive scanning with `Nmap`, `Nslookup`, and Google Dorking
+- 🔍 **Reconnaissance Labs**: Active/passive scanning with `Nmap`, `Nslookup`, Google Dorking and Wireshark
 - 🐛 **Vulnerability Discovery**: Simulated scanning with `OpenVAS`, interpreted CVEs
 - 🎯 **Social Engineering Simulation**: Mock phishing emails, payload structure, pretexting
 - 🔐 **Crypto Basics**: Hands-on with hashing, encryption, encoding, and decryption in linux
