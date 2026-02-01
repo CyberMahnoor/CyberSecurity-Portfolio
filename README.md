@@ -1,127 +1,65 @@
-I am an entry-level Cybersecurity Analyst with hands-on training and practical experience in SOC-related tasks such as security monitoring, incident triage, and threat intelligence analysis. I have worked with SIEM tools, Linux systems, and basic scripting, and I am actively seeking an opportunity to contribute to a blue-team or security operations environment where I can continue learning and growing in real-world security work.
+Hi, Iam Mahnoor Fatima
 
-Technical Skills & Tools
+Cybersecurity Analyst | SOC Enthusiast | Threat Hunter in Training
 
-SIEM & Monitoring
-IBM QRadar, Wazuh, Splunk, Elastic Stack
+Iam an entry-level cybersecurity analyst with a passion for protecting systems, uncovering threats, and helping teams stay one step ahead of cyber attackers. I have been diving deep into SOC operations, threat intelligence, and incident response, and I enjoy turning complex security problems into clear, actionable solutions.
 
-Threat Intelligence & Investigation
-VirusTotal, AlienVault OTX, RiskIQ, IPDP, IBM X-Force
+Skills & Tools
 
-Linux & System Security
-Ubuntu (CLI), file permissions, user management, iptables, netstat, auditd, basic bash scripting
+SOC & Monitoring: IBM QRadar, Wazuh, Splunk, Elastic Stack
 
-Scripting & Data Handling
-Python (beginner), SQL, Bash
+Threat Intelligence: VirusTotal, AlienVault OTX, RiskIQ, X-Force
 
-Security & Networking Tools
-Nmap, Wireshark, Nslookup, OpenVAS, Google Dorking
+Linux Security: Ubuntu CLI, permissions, iptables, auditd, bash scripting
 
-Core Security Concepts
-SIEM alert handling, IOC analysis, incident response workflows, phishing detection, encryption basics, NIST framework, CIA triad, XDR fundamentals
+Programming & Scripting: Python, SQL, Bash
 
-SOC Analyst Training Experience (Trillium)
+Pen Testing & Recon: Nmap, Wireshark, Nslookup, OpenVAS, Google Dorking
 
-Due to confidentiality agreements, internal systems and case data cannot be shared publicly. The points below describe the type of work and responsibilities I trained on.
+Core Security Concepts: CIA Triad, NIST Framework, XDR, SIEM alerts, IOC management, encryption, phishing detection
 
-Security Monitoring & Alert Triage
+I enjoy hands-on labs and simulations—they help me understand attacks from both defensive and offensive perspectives.
 
-Monitored logs and alerts using IBM QRadar and Wazuh
+SOC Experience (Training at Trillium)
 
-Reviewed endpoint and network-related events to identify suspicious activity
+Monitored and analyzed logs using QRadar and Wazuh, triaging alerts and investigating suspicious activity
 
-Practiced distinguishing false positives from actionable alerts
+Investigated domains, IPs, and other indicators of compromise using VirusTotal, AlienVault, RiskIQ, and IPDP
 
-Threat Intelligence & IOC Analysis
+Followed incident response playbooks, documented incidents, and escalated issues to senior analysts
 
-Investigated IPs, domains, and hashes using VirusTotal, AlienVault OTX, RiskIQ, and IPDP
+Applied firewall rules and XDR policies to block malicious IPs and domains
 
-Cross-checked multiple intelligence sources to validate indicators
+Prepared daily, weekly, and monthly reports summarizing threat patterns and incidents
 
-Improved alert quality by reducing false positives during investigations
+Labs & Projects
 
-Incident Response & Escalation
+Incident Response Simulations: Responded to mock breaches and created structured response plans
 
-Followed predefined incident response playbooks
+SIEM & Log Analysis: Investigated anomalies in simulated logs to practice real-world detection
 
-Classified events by severity and impact
+Python for Security: Wrote scripts to automate log parsing, alerting, and IP verification
 
-Escalated incidents to senior analysts with supporting evidence and summaries
+Linux Security: Managed permissions, hardened systems, and monitored network activity
 
-Reporting & Documentation
+Pen Testing & Recon: Conducted scans using Nmap, Wireshark, OpenVAS, and simulated social engineering attacks
 
-Assisted in creating daily and weekly SOC reports
+Cryptography Labs: Practiced hashing, encryption, encoding, and decryption
 
-Documented investigation steps, findings, and response actions
-
-Contributed to structured incident timelines and summaries
-
-Access Control & Blocking Activities
-
-Applied blacklist rules for malicious IPs and domains
-
-Worked with XDR and monitoring interfaces to track asset behavior
-
-Assisted with isolating potentially risky activity during investigations
-
-Course-Based Labs & Practical Exercises
-Google Cybersecurity Professional Certificate
-
-The projects and labs below are based on structured, hands-on exercises from the Google Cybersecurity Certificate and related training programs. They were completed to strengthen practical understanding of SOC workflows and security fundamentals.
-
-Incident Response Simulations
-Analyzed mock security incidents and drafted response actions
-
-SIEM & Log Analysis
-Investigated simulated log data to identify anomalies and suspicious behavior
-
-Linux Security Labs
-File system navigation, permissions, user roles, and basic system hardening
-📁 Linux lab screenshots: ./LinuxLab/
-
-Python for Security
-Wrote small scripts to parse logs, validate IPs, and automate simple checks
-📁 Python lab screenshots: ./img/PythonLab/
-
-SQL for Cybersecurity
-Queried sample datasets to identify suspicious login patterns
-📁 SQL lab screenshots: ./img/MariaDBLabs/
-
-Penetration Testing, Threat Hunting & Cryptography (IBM)
-
-These labs were completed as part of structured training to understand attacker techniques and defensive implications.
-
-Reconnaissance & Traffic Analysis
-Active and passive scanning using Nmap, Nslookup, Wireshark, and Google Dorking
-📁 Recon labs: ./img/NmapLab/, ./img/WiresharkLab/
-
-Vulnerability Discovery
-Simulated vulnerability scanning using OpenVAS and CVE interpretation
-
-Social Engineering Awareness
-Mock phishing scenarios to understand tactics, payload structure, and pretexting
-
-Cryptography Basics
-Hands-on exercises with hashing, encryption, encoding, and decoding on Linux
-📁 Crypto labs: ./img/CryptoLab/
+Hands-on labs and simulations have been essential in building my skills and confidence in cybersecurity.
 
 Certifications
 
 Google Cybersecurity Professional Certificate
 
-IBM Penetration Testing, Threat Hunting & Cryptography
+IBM Pen Testing, Threat Hunting & Cryptography
 
-Python for Everybody – University of Michigan
+Python for Everybody (University of Michigan) – Programming and Data Structures
 
 IBM QRadar SIEM Foundation
 
-(Certificates and screenshots are included in this repository for reference.)
+What Iam Looking For
 
+Iam eager to grow in a real-world cybersecurity environment—whether in a SOC, blue team, or threat intelligence role. I thrive when learning on the job, contributing to security operations, and collaborating with other security enthusiasts to keep systems safe.
 
-
-This repository is intended to demonstrate my learning process, practical exposure, and genuine interest in cybersecurity. The focus is on understanding workflows, tools, and decision-making rather than polished production systems.
-
-
-Email: [mahnoor.nordic@gmail.com](mailto:mahnoor.nordic@gmail.com)
-
-
+If you are looking for someone curious, diligent, and hands-on in cybersecurity, lets connet!
